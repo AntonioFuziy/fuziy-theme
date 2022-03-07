@@ -3,6 +3,25 @@
     "displayName": "Fuziy Theme",
     "description": "This is a color theme based on the React.js color pallete",
     "version": "0.0.1",
+    "publisher": "AntonioFuziy",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AntonioFuziy/fuziy-theme"
+    },
+    "keywords": [
+        "react",
+        "theme",
+        "color",
+        "pallete",
+        "fuziy",
+        "antonio fuziy",
+        "react-color",
+        "react-theme",
+        "react-theme-fuziy",
+        "antonio",
+        "dark theme",
+        "dark"
+    ],
     "engines": {
         "vscode": "^1.65.0"
     },
