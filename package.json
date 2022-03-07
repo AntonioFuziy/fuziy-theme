@@ -1,0 +1,21 @@
+{
+    "name": "fuziy-theme",
+    "displayName": "Fuziy Theme",
+    "description": "This is a color theme based on the React.js color pallete",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fuziy Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fuziy Theme-color-theme.json"
+            }
+        ]
+    }
+}
