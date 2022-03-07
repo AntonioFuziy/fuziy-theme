@@ -20,7 +20,8 @@
         "react-theme-fuziy",
         "antonio",
         "dark theme",
-        "dark"
+        "dark",
+        "fuziy theme"
     ],
     "engines": {
         "vscode": "^1.65.0"
